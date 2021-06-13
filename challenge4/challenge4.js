@@ -10,7 +10,7 @@ function reverseStr(str) {
     }
 }
 
-const reverseString = reverseStr("prem")
+const reverseString = reverseStr("prempatel")
 console.log(reverseString)
 
 
